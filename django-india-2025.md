@@ -206,4 +206,5 @@ Questions:
 - Reference: [Django’s Unfair AI Advantage (Google Doc)](https://docs.google.com/document/d/1272DC9t77e3jzI5nQN1yliIJtGabiElFl6BK3j_jPWA/edit?tab=t.0)
     
 
-    
+#### [Thibaud Colas](https://www.linkedin.com/in/thibaudcolas/), President Django Software Foundation 
+![[20251108_164439.jpg]]
