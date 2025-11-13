@@ -207,4 +207,5 @@ Questions:
     
 
 #### [Thibaud Colas](https://www.linkedin.com/in/thibaudcolas/), President Django Software Foundation 
-![[20251108_164439.jpg]]
+
+![with Thibaud colas](images/20251108_164439.jpg)
